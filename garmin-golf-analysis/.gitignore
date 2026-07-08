@@ -1,0 +1,4 @@
+rounds.json
+*.private.json
+__pycache__/
+*.pyc
